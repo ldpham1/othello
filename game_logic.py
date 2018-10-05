@@ -1,7 +1,3 @@
-"""
-Name: Lillian Pham
-ID: 68168196
-"""
 class InvalidInputError(Exception):
     """Raised whenever the user input is invalid"""
     pass
