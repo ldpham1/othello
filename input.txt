@@ -1,0 +1,71 @@
+4
+4
+B
+>
+. . . . 
+. B W . 
+. W B . 
+. . . . 
+
+
+
+4
+4
+B
+>
+. W . .
+. W B B
+. W B .
+. . . .
+
+
+4
+4
+B
+>
+B W . W
+. B W B
+. W B .
+. . . .
+
+
+4
+4
+B
+>
+B B B W
+B B W W
+B B W W
+W W W B
+
+
+4
+4
+B
+>
+B B B W
+W B W W
+. W B W
+W B . B
+
+4
+4
+B
+>
+W W W W
+W W W W
+W W W W
+W W W .
+
+
+""Below is the case for when you make a move and the opponent
+has no valid moves as a result, then it stays your turn"""
+
+4
+4
+B
+>
+B . . .
+. . B W
+. . . .
+. . . .
