@@ -1,8 +1,3 @@
-"""
-Name: Lillian Pham
-ID: 68168196
-"""
-
 import game_logic
 
 def run_game():
